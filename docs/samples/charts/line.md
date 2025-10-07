@@ -2,7 +2,7 @@
 
 ```js chart-editor
 // <block:setup:2>
-var DATA_COUNT = 8;
+var DATA_COUNT = 20;
 var labels = [];
 
 Utils.srand(8);
